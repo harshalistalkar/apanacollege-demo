@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my first git Repository.
 <br>
-Author- Harshal Istalkar
+Author- Harshal Istalkar(harsh)
